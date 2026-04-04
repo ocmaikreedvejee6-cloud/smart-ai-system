@@ -3,7 +3,7 @@ import time
 from ultralytics import YOLO
 
 # Load model
-model = YOLO("model/best.pt")
+model = YOLO("best.pt")
 
 # Camera
 cap = cv2.VideoCapture(0)
