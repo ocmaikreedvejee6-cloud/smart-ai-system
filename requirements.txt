@@ -1,1 +1,5 @@
-
+ultralytics --no-deps
+numpy
+pillow
+pyyaml
+requests
